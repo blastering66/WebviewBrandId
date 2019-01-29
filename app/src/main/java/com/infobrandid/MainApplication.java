@@ -1,4 +1,4 @@
-package com.infobrand;
+package com.infobrandid;
 
 import android.app.Application;
 import android.support.annotation.NonNull;
